@@ -1,0 +1,10 @@
+com/wallet/database/UserDAO.class
+com/wallet/gui/DashboardFrame.class
+com/wallet/database/DatabaseConnection.class
+com/wallet/utils/PasswordUtils.class
+com/wallet/database/TransactionDAO.class
+com/wallet/gui/LoginFrame.class
+com/wallet/models/Transaction.class
+com/wallet/WalletApp.class
+com/wallet/models/User.class
+com/wallet/gui/RegisterFrame.class
