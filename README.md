@@ -248,6 +248,21 @@ CREATE TABLE IF NOT EXISTS transactions (
 mvn clean package
 java -jar target/secure-wallet-1.0.0-jar-with-dependencies.jar
 ```
+## OUTPUT
+<img width="400" height="299" alt="Screenshot 2026-04-03 at 9 21 41 PM" src="https://github.com/user-attachments/assets/79cbe3d2-63d5-48e5-93b8-35afa3126966" />
+<img width="603" height="499" alt="Screenshot 2026-04-03 at 9 22 03 PM" src="https://github.com/user-attachments/assets/3616f181-365e-4eed-8ade-e0316c9fb10f" />
+<img width="386" height="173" alt="Screenshot 2026-04-03 at 9 22 15 PM" src="https://github.com/user-attachments/assets/576c183c-f7ec-42b5-b0f0-268cfb840f69" />
+<img width="256" height="174" alt="Screenshot 2026-04-03 at 9 22 24 PM" src="https://github.com/user-attachments/assets/88022683-7170-4ae0-bd4d-e7f4ff68e73c" />
+
+<img width="598" height="498" alt="Screenshot 2026-04-03 at 9 23 12 PM" src="https://github.com/user-attachments/assets/21e91003-7b13-486e-b1d5-805880cb39ee" />
+<img width="256" height="169" alt="Screenshot 2026-04-03 at 9 22 58 PM" src="https://github.com/user-attachments/assets/5eb772eb-1c03-407f-97a6-f42e83519167" />
+<img width="379" height="176" alt="Screenshot 2026-04-03 at 9 22 51 PM" src="https://github.com/user-attachments/assets/2f925e76-3349-403a-b567-d8bfb9c49f86" />
+<img width="598" height="495" alt="Screenshot 2026-04-03 at 9 22 32 PM" src="https://github.com/user-attachments/assets/e76d1994-7280-4573-9c13-ab24c452d8a5" />
+
+
+
+
+
 
 ## Author Notes
 This project is intentionally simple and class-project friendly, focused on clear architecture:
