@@ -1,4 +1,4 @@
-# Secure Digital Wallet (Java GUI + JDBC)
+# Secure Digital Wallet (Java GUI + JDBC)(Group-22)
 
 A simple class project built with Java Swing (GUI), JDBC, and MySQL.
 
