@@ -261,11 +261,11 @@ java -jar target/secure-wallet-1.0.0-jar-with-dependencies.jar
 
 
 ## Contributors
-24BCE10436	Nidhan Jain 
-23BCE11446	Anshul Bathre
-23BCE11242	Priyansh Aggarwal
-24BCE10985 	Gunwaan Bareja 
-24BCE10829	Dharmik Yogesh Mehta 
+- 24BCE10436	Nidhan Jain 
+- 23BCE11446	Anshul Bathre
+- 23BCE11242	Priyansh Aggarwal
+- 24BCE10985 	Gunwaan Bareja 
+- 24BCE10829	Dharmik Yogesh Mehta 
 
 
 
