@@ -260,7 +260,12 @@ java -jar target/secure-wallet-1.0.0-jar-with-dependencies.jar
 <img width="598" height="495" alt="Screenshot 2026-04-03 at 9 22 32 PM" src="https://github.com/user-attachments/assets/e76d1994-7280-4573-9c13-ab24c452d8a5" />
 
 
-
+## Contributors
+24BCE10436	Nidhan Jain 
+23BCE11446	Anshul Bathre
+23BCE11242	Priyansh Aggarwal
+24BCE10985 	Gunwaan Bareja 
+24BCE10829	Dharmik Yogesh Mehta 
 
 
 
